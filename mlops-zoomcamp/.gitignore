@@ -5,8 +5,10 @@
 /data
 /*/mlruns
 /*/mlartifacts
+/*/artifacts
 /*/output
-
+/*/wandb
+/**/*.pkl
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
